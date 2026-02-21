@@ -30,7 +30,7 @@ python sudoku_solver.py
 - Backspace on empty cell → jumps back
 - SPACE → hint
 
-#Screenshots
+# Screenshots
 
 <img width="810" height="861" alt="Screenshot 2026-02-21 225425" src="https://github.com/user-attachments/assets/0484df3a-3169-491e-bda4-feb0feca3cca" />
 <img width="810" height="862" alt="Screenshot 2026-02-21 225417" src="https://github.com/user-attachments/assets/377da45e-1149-4c75-a3ba-b8bf3c85f57c" />
